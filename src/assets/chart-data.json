@@ -1,0 +1,642 @@
+[
+    {
+        "ISO3Code": "IND",
+        "CountryName": "India",
+        "SubmissionStatus": "submitted",
+        "GlobalCapacityScore": 63,
+        "RegionalCapacityScore": 61,
+        "CountryCapacityScore": 78,
+        "Capacities": [
+            {
+                "CapacityName": "C1.Legislation and Financing",
+                "CapacityNo": "C1",
+                "CapacitySeq": 1,
+                "GlobalAvg": 66,
+                "RegionalAvg": 67,
+                "CountryAvg": 80,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C1.1 Legislation, laws, regulations, policy, administrative requirements or other government instruments to implement the IHR",
+                        "IndicatorNo": "C1.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 100,
+                        "Attribute": "Legislation addressing the needs of radiation emergency preparedness and response (according to the radiation risk profiles of the country) are in place, specifying the roles and responsibilities of relevant stakeholders"
+                    },
+                    {
+                        "IndicatorName": "C1.2 Financing for the implementation of IHR capacities",
+                        "IndicatorNo": "C1.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 60,
+                        "Attribute": "Budgetary allocations or external financing are made for the implementation of IHR capacities for all IHR hazards at the national, intermediate and local levels"
+                    },
+                    {
+                        "IndicatorName": "C1.3 Financing mechanism and funds for timely response to public health emergencies",
+                        "IndicatorNo": "C1.3",
+                        "IndicatorSeq": 3,
+                        "IndicatorScore": 80,
+                        "Attribute": "An emergency public financing mechanism that allows structured reception and rapid distribution of funds for responding to public health emergencies is in place at the national, intermediate and local levels"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C2.IHR Coordination and National IHR Focal Point Functions",
+                "CapacityNo": "C2",
+                "CapacitySeq": 2,
+                "GlobalAvg": 70,
+                "RegionalAvg": 69,
+                "CountryAvg": 90,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C2.1 National IHR Focal Point functions under IHR",
+                        "IndicatorNo": "C2.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 80,
+                        "Attribute": "National IHR Focal Point functions are carried out according to the terms of reference"
+                    },
+                    {
+                        "IndicatorName": "C2.2 Multisectoral IHR coordination mechanisms",
+                        "IndicatorNo": "C2.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 100,
+                        "Attribute": "Coordination and communication mechanisms for radiation emergencies between all stakeholders from all relevant sectors, including national radiation safety authorities, are in place"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C3.Zoonotic Events and the Human–animal Interface",
+                "CapacityNo": "C3",
+                "CapacitySeq": 3,
+                "GlobalAvg": 67,
+                "RegionalAvg": 58,
+                "CountryAvg": 60,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C3.1 Collaborative effort on activities to address zoonoses",
+                        "IndicatorNo": "C3.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 60,
+                        "Attribute": "The animal and public health sectors work in collaboration regularly on specific activities to prevent, detect and respond to one or more agreed priority zoonoses"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C4.Food Safety",
+                "CapacityNo": "C4",
+                "CapacitySeq": 4,
+                "GlobalAvg": 65,
+                "RegionalAvg": 53,
+                "CountryAvg": 60,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C4.1 Multisectoral collaboration mechanism for food safety events",
+                        "IndicatorNo": "C4.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 60,
+                        "Attribute": "A multisectoral collaboration mechanism that includes at least one INFOSAN Focal Point is in place at the national, intermediate and local levels, if appropriate to the structure of the country."
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C5.Laboratory",
+                "CapacityNo": "C5",
+                "CapacitySeq": 5,
+                "GlobalAvg": 72,
+                "RegionalAvg": 73,
+                "CountryAvg": 67,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C5.1 Specimen referral and transport system",
+                        "IndicatorNo": "C5.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 80,
+                        "Attribute": "Systems are in place for at least 80% of all health facilities to transport specimens to reference laboratories for confirmatory diagnostics"
+                    },
+                    {
+                        "IndicatorName": "C5.2 Implementation of a laboratory biosafety and biosecurity regime",
+                        "IndicatorNo": "C5.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 40,
+                        "Attribute": "National laboratory biosafety and biosecurity guidelines and/or regulations are in place and implemented by some laboratories at the national level"
+                    },
+                    {
+                        "IndicatorName": "C5.3 Access to laboratory testing capacity for priority diseases",
+                        "IndicatorNo": "C5.3",
+                        "IndicatorSeq": 3,
+                        "IndicatorScore": 80,
+                        "Attribute": "Access to laboratory testing capacity with quality assured results is in place for at least 15 priority epidemic-prone diseases or other public health events"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C6.Surveillance",
+                "CapacityNo": "C6",
+                "CapacitySeq": 6,
+                "GlobalAvg": 73,
+                "RegionalAvg": 78,
+                "CountryAvg": 100,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C6.1 Early warning function: indicator-and event-based surveillance",
+                        "IndicatorNo": "C6.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 100,
+                        "Attribute": "Surveillance system is regularly evaluated and updated"
+                    },
+                    {
+                        "IndicatorName": "C6.2 Mechanism for event management (verification, risk assessment, analysis investigation)",
+                        "IndicatorNo": "C6.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 100,
+                        "Attribute": "Event management system is evaluated and updated on a regular basis"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C7.Human Resources",
+                "CapacityNo": "C7",
+                "CapacitySeq": 7,
+                "GlobalAvg": 63,
+                "RegionalAvg": 60,
+                "CountryAvg": 100,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C7.1 Human resources for the implementation of IHR capacities",
+                        "IndicatorNo": "C7.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 100,
+                        "Attribute": "Human resources for the implementation of IHR capacities are reviewed and updated on a regular basis"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C8.National Health Emergency Framework",
+                "CapacityNo": "C8",
+                "CapacitySeq": 8,
+                "GlobalAvg": 62,
+                "RegionalAvg": 58,
+                "CountryAvg": 80,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C8.1 Planning for emergency preparedness and response mechanism",
+                        "IndicatorNo": "C8.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 80,
+                        "Attribute": "Based on the all-hazard health emergency risk profile, plans for multisectoral all-hazard public health emergency preparedness and response are in place at national, intermediate and local levels"
+                    },
+                    {
+                        "IndicatorName": "C8.2 Management of health emergency response operations",
+                        "IndicatorNo": "C8.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 80,
+                        "Attribute": "Health sector emergency response coordination mechanisms and incident management system linked with a national emergency operation centre are in place at national, intermediate and local levels"
+                    },
+                    {
+                        "IndicatorName": "C8.3 Emergency resource mobilization",
+                        "IndicatorNo": "C8.3",
+                        "IndicatorSeq": 3,
+                        "IndicatorScore": 80,
+                        "Attribute": "Access to existing health sector resources for emergency response is in place at national, intermediate and local levels"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C9.Health Service Provision",
+                "CapacityNo": "C9",
+                "CapacitySeq": 9,
+                "GlobalAvg": 63,
+                "RegionalAvg": 61,
+                "CountryAvg": 33,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C9.1 Case management capacity for IHR relevant hazards",
+                        "IndicatorNo": "C9.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 40,
+                        "Attribute": "Access to case management services according to nationally recognized guidelines for priority epidemic-prone diseases are available at national, intermediate and local levels"
+                    },
+                    {
+                        "IndicatorName": "C9.2 Capacity for infection prevention and control and chemical and radiation decontamination",
+                        "IndicatorNo": "C9.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 20,
+                        "Attribute": "A national IPC programme and WASH standard for infectious diseases are under development"
+                    },
+                    {
+                        "IndicatorName": "C9.3 Access to essential health services",
+                        "IndicatorNo": "C9.3",
+                        "IndicatorSeq": 3,
+                        "IndicatorScore": 40,
+                        "Attribute": "At least 75% of catchment areas have access to essential health services."
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C10.Risk Communication",
+                "CapacityNo": "C10",
+                "CapacitySeq": 10,
+                "GlobalAvg": 60,
+                "RegionalAvg": 71,
+                "CountryAvg": 80,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C10.1 Capacity for emergency risk communications",
+                        "IndicatorNo": "C10.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 80,
+                        "Attribute": "All-hazard emergency risk communication mechanisms are operational at the national, intermediate and local levels with the ability to proactively engage with affected communities in local languages and incorporate their feedback into the emergency response system"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C11.Points of Entry",
+                "CapacityNo": "C11",
+                "CapacitySeq": 11,
+                "GlobalAvg": 56,
+                "RegionalAvg": 53,
+                "CountryAvg": 80,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C11.1 Core capacity requirements at all times for designated airports, ports and ground crossings",
+                        "IndicatorNo": "C11.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 80,
+                        "Attribute": "All designated PoEs are implementing routine core capacities with an all-hazard and multisectoral approach"
+                    },
+                    {
+                        "IndicatorName": "C11.2 Effective public health response at points of entry",
+                        "IndicatorNo": "C11.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 80,
+                        "Attribute": "All designated PoEs have developed PoE public health emergency contingency plans for events caused by all hazards"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C12.Chemical Events",
+                "CapacityNo": "C12",
+                "CapacitySeq": 12,
+                "GlobalAvg": 53,
+                "RegionalAvg": 45,
+                "CountryAvg": 80,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C12.1 Resources for detection and alert",
+                        "IndicatorNo": "C12.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 80,
+                        "Attribute": "Access to laboratory that conforms to national quality standard for identifying and quantifying chemical exposures to key chemicals of concern is in place"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C13.Radiation Emergencies",
+                "CapacityNo": "C13",
+                "CapacitySeq": 13,
+                "GlobalAvg": 55,
+                "RegionalAvg": 45,
+                "CountryAvg": 100,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C13.1 Capacity and resources",
+                        "IndicatorNo": "C13.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 100,
+                        "Attribute": "Radiation emergency arrangements are formally evaluated and tested on a regular basis, and improvements are made accordingly"
+                    }
+                ]
+            }
+        ],
+        "Timeline": {
+            "SubmissionYear": "2019",
+            "SubmissionStartDate": "25/07/2019",
+            "SubmissionEndDate": "23/07/2020",
+            "PublishDate": "23/07/2020"
+        },
+        "PointOfEntry": {
+            "Airport": 5,
+            "Port": 9,
+            "Ground": 1,
+            "AuthorizePortsToIssueSanitationCert": "Yes"
+        }
+    },
+    {
+        "ISO3Code": "PAK",
+        "CountryName": "Pakistan",
+        "SubmissionStatus": "submitted",
+        "GlobalCapacityScore": 63,
+        "RegionalCapacityScore": 66,
+        "CountryCapacityScore": 49,
+        "Capacities": [
+            {
+                "CapacityName": "C1.Legislation and Financing",
+                "CapacityNo": "C1",
+                "CapacitySeq": 1,
+                "GlobalAvg": 66,
+                "RegionalAvg": 64,
+                "CountryAvg": 27,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C1.1 Legislation, laws, regulations, policy, administrative requirements or other government instruments to implement the IHR",
+                        "IndicatorNo": "C1.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 20,
+                        "Attribute": "Legislation, laws, regulations, policy, administrative requirements or other government instruments to support and facilitate the development and implementation of IHR capacities for infectious diseases are under development"
+                    },
+                    {
+                        "IndicatorName": "C1.2 Financing for the implementation of IHR capacities",
+                        "IndicatorNo": "C1.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 20,
+                        "Attribute": "Budgetary allocations for the implementation of IHR capacities are made only by extrabudgetary means"
+                    },
+                    {
+                        "IndicatorName": "C1.3 Financing mechanism and funds for timely response to public health emergencies",
+                        "IndicatorNo": "C1.3",
+                        "IndicatorSeq": 3,
+                        "IndicatorScore": 40,
+                        "Attribute": "An emergency public financing mechanism that allows structured reception and rapid distribution of funds for responding to public health emergencies is in place at the national level"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C2.IHR Coordination and National IHR Focal Point Functions",
+                "CapacityNo": "C2",
+                "CapacitySeq": 2,
+                "GlobalAvg": 70,
+                "RegionalAvg": 74,
+                "CountryAvg": 50,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C2.1 National IHR Focal Point functions under IHR",
+                        "IndicatorNo": "C2.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 60,
+                        "Attribute": "Terms of reference describing the roles and responsibilities of the National IHR Focal Point is in place"
+                    },
+                    {
+                        "IndicatorName": "C2.2 Multisectoral IHR coordination mechanisms",
+                        "IndicatorNo": "C2.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 40,
+                        "Attribute": "Multisectoral coordination mechanisms to address zoonoses and other existing or new health events at the human–animal interface  are in place"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C3.Zoonotic Events and the Human–animal Interface",
+                "CapacityNo": "C3",
+                "CapacitySeq": 3,
+                "GlobalAvg": 67,
+                "RegionalAvg": 77,
+                "CountryAvg": 60,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C3.1 Collaborative effort on activities to address zoonoses",
+                        "IndicatorNo": "C3.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 60,
+                        "Attribute": "The animal and public health sectors work in collaboration regularly on specific activities to prevent, detect and respond to one or more agreed priority zoonoses"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C4.Food Safety",
+                "CapacityNo": "C4",
+                "CapacitySeq": 4,
+                "GlobalAvg": 65,
+                "RegionalAvg": 64,
+                "CountryAvg": 40,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C4.1 Multisectoral collaboration mechanism for food safety events",
+                        "IndicatorNo": "C4.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 40,
+                        "Attribute": "A multisectoral collaboration mechanism that includes an INFOSAN Emergency Contact Point is in place at the national level AND Communication channels between the INFOSAN Emergency Contact Point, the National IHR Focal Point and all relevant sectors for food safety events including emergencies have been established at the national level."
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C5.Laboratory",
+                "CapacityNo": "C5",
+                "CapacitySeq": 5,
+                "GlobalAvg": 72,
+                "RegionalAvg": 69,
+                "CountryAvg": 60,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C5.1 Specimen referral and transport system",
+                        "IndicatorNo": "C5.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 60,
+                        "Attribute": "Systems are in place for 50–80% of all health facilities to transport specimens to reference laboratories for confirmatory diagnostics"
+                    },
+                    {
+                        "IndicatorName": "C5.2 Implementation of a laboratory biosafety and biosecurity regime",
+                        "IndicatorNo": "C5.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 40,
+                        "Attribute": "National laboratory biosafety and biosecurity guidelines and/or regulations are in place and implemented by some laboratories at the national level"
+                    },
+                    {
+                        "IndicatorName": "C5.3 Access to laboratory testing capacity for priority diseases",
+                        "IndicatorNo": "C5.3",
+                        "IndicatorSeq": 3,
+                        "IndicatorScore": 80,
+                        "Attribute": "Access to laboratory testing capacity with quality assured results is in place for at least 15 priority epidemic-prone diseases or other public health events"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C6.Surveillance",
+                "CapacityNo": "C6",
+                "CapacitySeq": 6,
+                "GlobalAvg": 73,
+                "RegionalAvg": 72,
+                "CountryAvg": 60,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C6.1 Early warning function: indicator-and event-based surveillance",
+                        "IndicatorNo": "C6.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 60,
+                        "Attribute": "Surveillance data/information are collected via either indicator-based or event-based surveillance on ad hoc basis"
+                    },
+                    {
+                        "IndicatorName": "C6.2 Mechanism for event management (verification, risk assessment, analysis investigation)",
+                        "IndicatorNo": "C6.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 60,
+                        "Attribute": "Event verification, risk assessment, investigation and analysis are systematically performed and guide a response by national and intermediate levels AND Findings are disseminated by production of periodical epidemiological reports"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C7.Human Resources",
+                "CapacityNo": "C7",
+                "CapacitySeq": 7,
+                "GlobalAvg": 63,
+                "RegionalAvg": 64,
+                "CountryAvg": 60,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C7.1 Human resources for the implementation of IHR capacities",
+                        "IndicatorNo": "C7.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 60,
+                        "Attribute": "Human resources for the implementation of IHR capacities are available at the national level in all relevant sectors"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C8.National Health Emergency Framework",
+                "CapacityNo": "C8",
+                "CapacitySeq": 8,
+                "GlobalAvg": 62,
+                "RegionalAvg": 65,
+                "CountryAvg": 47,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C8.1 Planning for emergency preparedness and response mechanism",
+                        "IndicatorNo": "C8.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 40,
+                        "Attribute": "Public health emergency risk profiles have been developed and emergency preparedness measures for priority public health risks is available at the national level"
+                    },
+                    {
+                        "IndicatorName": "C8.2 Management of health emergency response operations",
+                        "IndicatorNo": "C8.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 40,
+                        "Attribute": "A health sector emergency response coordination mechanism or incident management system linked with a national emergency operation centre are in place at the primary level of response"
+                    },
+                    {
+                        "IndicatorName": "C8.3 Emergency resource mobilization",
+                        "IndicatorNo": "C8.3",
+                        "IndicatorSeq": 3,
+                        "IndicatorScore": 60,
+                        "Attribute": "Inventories and maps of existing health sector resrources for emergency response are in place at the national, intermediate and local levels AND A mechanism to send and/or receive international assistance is in place"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C9.Health Service Provision",
+                "CapacityNo": "C9",
+                "CapacitySeq": 9,
+                "GlobalAvg": 63,
+                "RegionalAvg": 68,
+                "CountryAvg": 33,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C9.1 Case management capacity for IHR relevant hazards",
+                        "IndicatorNo": "C9.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 40,
+                        "Attribute": "Access to case management services according to nationally recognized guidelines for priority epidemic-prone diseases are available at national, intermediate and local levels"
+                    },
+                    {
+                        "IndicatorName": "C9.2 Capacity for infection prevention and control and chemical and radiation decontamination",
+                        "IndicatorNo": "C9.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 20,
+                        "Attribute": "A national IPC programme and WASH standard for infectious diseases are under development"
+                    },
+                    {
+                        "IndicatorName": "C9.3 Access to essential health services",
+                        "IndicatorNo": "C9.3",
+                        "IndicatorSeq": 3,
+                        "IndicatorScore": 40,
+                        "Attribute": "At least 75% of catchment areas have access to essential health services."
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C10.Risk Communication",
+                "CapacityNo": "C10",
+                "CapacitySeq": 10,
+                "GlobalAvg": 60,
+                "RegionalAvg": 60,
+                "CountryAvg": 20,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C10.1 Capacity for emergency risk communications",
+                        "IndicatorNo": "C10.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 20,
+                        "Attribute": "Mechanisms for emergency risk communication are implemented on an ad hoc basis"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C11.Points of Entry",
+                "CapacityNo": "C11",
+                "CapacitySeq": 11,
+                "GlobalAvg": 56,
+                "RegionalAvg": 62,
+                "CountryAvg": 40,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C11.1 Core capacity requirements at all times for designated airports, ports and ground crossings",
+                        "IndicatorNo": "C11.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 40,
+                        "Attribute": "Some designated PoEs are implementing routine core capacities at all times AND Competent authorities are identified in each designated PoE"
+                    },
+                    {
+                        "IndicatorName": "C11.2 Effective public health response at points of entry",
+                        "IndicatorNo": "C11.2",
+                        "IndicatorSeq": 2,
+                        "IndicatorScore": 40,
+                        "Attribute": "Some designated PoEs have developed a PoE public health emergency contingency plan for events caused by biological hazards"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C12.Chemical Events",
+                "CapacityNo": "C12",
+                "CapacitySeq": 12,
+                "GlobalAvg": 53,
+                "RegionalAvg": 56,
+                "CountryAvg": 40,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C12.1 Resources for detection and alert",
+                        "IndicatorNo": "C12.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 40,
+                        "Attribute": "Surveillance capacity for chemical exposures is available on an ad hoc basis, e.g. a poison information service that operates only during office hours or that only serves part of the country AND Access to laboratory capacity for identifying and quantifying exposures to key chemicals of concern is available on an ad hoc basis"
+                    }
+                ]
+            },
+            {
+                "CapacityName": "C13.Radiation Emergencies",
+                "CapacityNo": "C13",
+                "CapacitySeq": 13,
+                "GlobalAvg": 55,
+                "RegionalAvg": 57,
+                "CountryAvg": 100,
+                "Indicators": [
+                    {
+                        "IndicatorName": "C13.1 Capacity and resources",
+                        "IndicatorNo": "C13.1",
+                        "IndicatorSeq": 1,
+                        "IndicatorScore": 100,
+                        "Attribute": "Radiation emergency arrangements are formally evaluated and tested on a regular basis, and improvements are made accordingly"
+                    }
+                ]
+            }
+        ],
+        "Timeline": {
+            "SubmissionYear": "2019",
+            "SubmissionStartDate": "25/07/2019",
+            "SubmissionEndDate": "23/07/2020",
+            "PublishDate": "23/07/2020"
+        },
+        "PointOfEntry": {
+            "Airport": 9,
+            "Port": 3,
+            "Ground": 6,
+            "AuthorizePortsToIssueSanitationCert": "Yes"
+        }
+    }
+]
